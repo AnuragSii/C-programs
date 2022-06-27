@@ -1,0 +1,15 @@
+
+.vs/C-programs/v17/Browse.VC.opendb
+.vs/C-programs/v17/Browse.VC.db-wal
+*.db-shm
+.vs/C-programs/v17/ipch/AutoPCH/184a6b44b8e33205/HELLO_WORLD.ipch
+.vs/C-programs/v17/Browse.VC.db
+.vs/C-programs/v17/.suo
+.vs/C-programs/v17/ipch/AutoPCH/87f745a3ed173b9d/HELLO_WORLD.ipch
+.vs/C-programs/FileContentIndex/d633d3b7-1c62-42b0-a654-b623efa3862e.vsidx
+*.vsidx
+*.lock
+*.json
+*.sqlite
+Hello_world.exe
+Hello_world.obj
